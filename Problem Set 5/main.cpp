@@ -16,6 +16,13 @@
 //        *   *
 //          * *
 //            *
+
+//Q.5 * * * * *
+//    *     *
+//    *   *
+//    * *
+//    *
+
 #include <iostream>
 #include<algorithm>
 using namespace std;
@@ -97,7 +104,7 @@ using namespace std;
 }*/
 
 //Sol.4
-int main()
+/*int main()
 {
     for(int i=0;i<5;i++)
     {
@@ -110,5 +117,5 @@ int main()
         }
         cout<<"\n";
     }
-}
+}*/
 
